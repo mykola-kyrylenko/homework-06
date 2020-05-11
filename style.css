@@ -148,27 +148,27 @@ h2::after {
 }
 
 .icon1 {
-    background-image: url(/image/background/ALARM1.png);
+    background-image: url(./img/alarm1.png);
 }
 
 .icon2 {
-    background-image: url(/image/background/LINE\ GRAPH2.png);
+    background-image: url(./img/linegraph2.png);
 }
 
 .icon3 {
-    background-image: url(/image/background/COMPUTER\ _\ OK3.png);
+    background-image: url(./img/computer\ _\ ok3.png);
 }
 
 .icon4 {
-    background-image: url(/image/background/BOOK4.png);
+    background-image: url(./img/book4.png);
 }
 
 .icon5 {
-    background-image: url(/image/background/HOME5.png);
+    background-image: url(./img/home5.png);
 }
 
 .icon6 {
-    background-image: url(/image/background/IMAGE6.png);
+    background-image: url(./img/image6.png);
 }
 
 .h3-text {
@@ -290,7 +290,7 @@ h2::after {
 .facebook {
     width: 55px;
     height: 56px;
-    background-image: url(./image/background/facebook.png);
+    background-image: url(./img/facebook.png);
     background-repeat: no-repeat;
     background-position: center;
     background-color: rgba(252, 227, 138, 1);
@@ -300,7 +300,7 @@ h2::after {
 .twitter {
     width: 55px;
     height: 56px;
-    background-image: url(./image/background/twitter.png);
+    background-image: url(./img/twitter.png);
     background-repeat: no-repeat;
     background-position: center;
     background-color: rgba(252, 227, 138, 1);
@@ -310,7 +310,7 @@ h2::after {
 .pinterest {
     width: 55px;
     height: 56px;
-    background-image: url(./image/background/pinterest.png);
+    background-image: url(./img/pinterest.png);
     background-repeat: no-repeat;
     background-position: center;
     background-color: rgba(252, 227, 138, 1);
@@ -320,7 +320,7 @@ h2::after {
 .instagram {
     width: 55px;
     height: 56px;
-    background-image: url(./image/background/instagram.png);
+    background-image: url(./img/instagram.png);
     background-repeat: no-repeat;
     background-position: center;
     background-color: rgba(252, 227, 138, 1);
